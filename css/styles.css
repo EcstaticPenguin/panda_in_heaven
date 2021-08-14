@@ -36,3 +36,6 @@ body {
 .title {
    text-decoration: underline;
 }
+.tour {
+  font-family: 'Merriweather', serif;
+}
