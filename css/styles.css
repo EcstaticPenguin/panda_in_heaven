@@ -96,3 +96,11 @@ h2{
 	position:relative;
 	top:1px;
 }
+
+.bottom {
+  background-color: #1c1d1f;
+  color: #ffffff;
+}
+.notify {
+  text-align: left;
+}
