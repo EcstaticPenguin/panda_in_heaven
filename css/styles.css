@@ -5,6 +5,15 @@ body {
   font-size: 20px;
 }
 
+a {
+  text-decoration: none;
+  color: #11999E
+}
+
+a:hover{
+  color: #EAF6F6
+}
+
 h2{
   font-size: 2.5rem;
   color: #6E85B2;
@@ -99,7 +108,7 @@ hr {
 }
 
 .bottom {
-  background-color: #A2DBFA;
+  background-color: #96BAFF;
   color: #ffffff;
 }
 .notify {
@@ -144,4 +153,7 @@ hr {
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
+}
+h3{
+  color: #000000;
 }
