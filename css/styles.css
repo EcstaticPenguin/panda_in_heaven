@@ -4,6 +4,7 @@ body {
   font-family: 'Nunito', sans-serif;
   font-size: 20px;
 }
+
 h2{
   font-size: 2.5rem;
   color: #6E85B2;
@@ -25,13 +26,13 @@ hr {
 .tour {
   text-align: center;
 }
+
 .FirstHead {
   margin: 50px auto 0 auto ;
   font-family: 'MonteCarlo', cursive;
   font-size: 562.5%;
   color: #BFA2DB;
 }
-
 
 .cloudBelow {
   position: absolute;
@@ -52,39 +53,45 @@ hr {
   padding-top: 100px
 }
 
-
 .middle {
   position: relative;
 }
+
 .title {
    text-decoration: underline;
    color: #11999E;
    text-align: center;
 }
+
 .tour {
   font-family: 'Merriweather', serif;
 }
+
 .middle {
   width : 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
+
 .terror1 {
   width : 25%;
   float: left;
   margin-right: 30px;
 }
+
 .terror2 {
   width : 25%;
   float: right;
   margin-left: 30px;
 }
+
 .terror3 {
   width : 25%;
   float: left;
   margin-right: 30px;
 }
+
 .terror4 {
   width : 25%;
   float: right;
@@ -92,7 +99,7 @@ hr {
 }
 
 .bottom {
-  background-color: #1c1d1f;
+  background-color: #A2DBFA;
   color: #ffffff;
 }
 .notify {
